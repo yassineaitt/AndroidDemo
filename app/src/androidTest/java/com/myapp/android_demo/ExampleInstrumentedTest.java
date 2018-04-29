@@ -1,4 +1,4 @@
-package com.mytaxi.android_demo;
+package com.myApp.android_demo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.mytaxi.android_demo", appContext.getPackageName());
+        assertEquals("com.myApp.android_demo", appContext.getPackageName());
     }
 }

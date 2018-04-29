@@ -1,4 +1,4 @@
-package com.mytaxi.android_demo.activities;
+package com.myApp.android_demo.activities;
 
 
 import android.os.SystemClock;
@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewParent;
 
-import com.mytaxi.android_demo.R;
+import com.myApp.android_demo.R;
 
 import org.hamcrest.Description;
 import org.hamcrest.Matcher;

@@ -1,4 +1,4 @@
-package com.mytaxi.android_demo;
+package com.myApp.android_demo;
 
 import org.junit.Test;
 
